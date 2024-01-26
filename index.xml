@@ -40,6 +40,207 @@ How to not read the dharmashāstra-s I find it amusing when people add &amp;ldqu
     </item>
     
     <item>
+      <title>Āryīkaraṇa of Writing: Alkanes</title>
+      <link>https://raunackt.github.io/blogs/011-aryikarna-alkanes/</link>
+      <pubDate>Mon, 22 Jan 2024 20:30:51 +0530</pubDate>
+      
+      <guid>https://raunackt.github.io/blogs/011-aryikarna-alkanes/</guid>
+      <description>I have previously discussed some obstacles and some preliminary propositions of mine that I think will be useful in such culture-building. In case you do not want to go through all of it or just need a refresher, the key-points I made were:
+We are going up against centuries of development of Western formal systems, so the process is going to be slow
+Translating words or concepts one-to-one is not only not possible, it is also undesirable unless the translation is oragnic</description>
+      <content:encoded><![CDATA[<p>I have previously discussed some <a href="https://raunackt.github.io/blogs/006-aryikarana-of-writing/">obstacles</a> and some <a href="https://raunackt.github.io/blogs/007-aryikarana-of-writing-dvi/">preliminary propositions</a> of mine that I think will be useful in such culture-building. In case you do not want to go through all of it or just need a refresher, the key-points I made were:</p>
+<ol>
+<li>
+<p>We are going up against centuries of development of Western formal systems, so the process is going to be slow</p>
+</li>
+<li>
+<p>Translating words or concepts one-to-one is not only not possible, it is also undesirable unless the translation is oragnic</p>
+</li>
+<li>
+<p>We have to build a system, instead of translating/transforming concepts as they come, so that our descendants will use such a system to write/compose when they have newer realizations of knowledge</p>
+</li>
+</ol>
+<p>In the previous blog I present the First Part of the Fundamental Theorem of Calculus to illustrate a point. In this blog, I am going to provide my attempts at <em>āryīkaraṇa</em> of nomenclature of alkanes. Why did choose alkanes specifically? No reason really. It seemed like a low-hanging fruit. While I was thinking that IUPAC nomenclature, which helps in naming different structures of hydrocarbons, would provide a good ground for flexing the strength of <em>saṅskṛta</em>, I am not going to change (or think of changing) the naming rules. Rather, I have focused on just providing <em>saṅskṛta</em> names for existing alkanes. From there, one can use the IUPAC nomenclature to construct names of such structures in <em>saṅskṛta</em>. Also, for now these are just restricted to alkyls and alkanes, not alkenes or alkalines (latter of which may have <em>saṅskṛta</em> names already). I will be discussing my approach and rationale to choosing the names I did, and hope that the reader focuses on the principle of <em>āryīkaraṇa</em> rather than the actual result. But let me not make excuses this early. I have used <a href="https://ashtadhyayi.com/">ashtadhyayi.com</a> and <a href="https://www.etymonline.com/">online etymology dictionary</a> as resources.</p>
+<h2 id="approach-and-rationale-for-_saṅskṛta_-names">Approach and Rationale for <em>Saṅskṛta</em> names</h2>
+<p>Besides what I have discussed in my previous blogs (summarized at the top here), I keep three more things in mind while attempting to write the <em>saṅskṛta</em> names for non-<em>saṅskṛta</em> or non-Hindu concepts (meaning, which were either not found by Hindu-s or simply do not have <em>saṅskṛta</em> names):</p>
+<ul>
+<li>
+<p>Is a direct translation feasible?</p>
+</li>
+<li>
+<p>Can a name be ascribed based on unique properties or attributes of the object in question?</p>
+</li>
+<li>
+<p>Does it make sense to name an object after the place it was found/invented provided it is in the bounds of the Indian subcontinent?</p>
+</li>
+</ul>
+<p>I will refrain from talking about every single decision I have made in my process here, but for starters I have used the 2nd approach for the most part in this scenario. This is because research on alkanes has been going on for centuries. Let us just take one example of Methane (CH4). <a href="https://www.etymonline.com/word/methane">Etymologically</a>, methane is coined by adding &ldquo;-ane&rdquo; to &ldquo;meth&rdquo; from &ldquo;methyl&rdquo;. Furthermore, methyl <a href="https://www.etymonline.com/word/methyl">comes from</a> the Greek words &ldquo;methy&rdquo; and &ldquo;hyle&rdquo;, which means wood-wine. This is apparently because methyl was observed in wood-alcohol.</p>
+<p>If we were to use the direct translation approach, we would end up with काष्ठमधु (<em>kāṣṭhamadhu</em>) or काष्ठमद्यम् (<em>kāṣṭhamadyam</em>) or something similar, which just feels extremely awkward and will never make sense to us because we do not have a history of methyl(/methylene) converting to methane by a slow process. For this very reason, we also cannot try and name methane or methyl after a place from Indian subcontinent, because we have no records that our ancestors observed anything like this. So, the only option is to try and name methane and methyl based on their unique properties. Considering that the group of all these gases are colorless, odorless and combustible, we can probably use some words in <em>saṅskṛta</em> that carry the same meanings. I have focused on the combustible property of these gases. I did not focus on colorless and odorless because that is a lack of an attribute, and using words likes अवर्ण (<em>avarṇa</em>) or अगन्ध (<em>agandha</em>) felt weird for words that will be used in a system. Of course, some of this will come down to preferance of the person working on such a process, I do not see any reason why this would be undesirable, since we are going to fill in holes. I have used the word दाह (<em>dāha</em>) for combustible/flammable. One can probably use दाहक (<em>dāhaka</em>) too, but I used the one with fewer <em>akṣara</em>-s. Following this, I will use दाह as a suffix for all names of the alkane gases.</p>
+<p>The first four gases &ndash; methane, ethane, propane and butane have some history attached to them, but from pentane to decane, the suffix &ldquo;-ane&rdquo; is added to the word for numbers. I have applied a similar principle, but for all the 10 gases. Meaning, methane to butane also have quantifiers attached to them before दाह. To put it simply, the prefix &ldquo;प्र&rdquo; (<em>pra</em>) implies forward/first/before in <em>saṅskṛta</em>, and since methane is the &ldquo;first&rdquo; gas in the alkane group, I have called methane प्रदाह (<em>pradāha</em>). As a clarification, प्रदाह is already a formal word in <em>saṅskṛta</em> and <a href="https://ashtadhyayi.com/kosha?search=%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A4%BE%E0%A4%B9">means</a> burning/heating/consuming, but we need not worry about overlapping meanings or pre-existing words &ndash; <em>saṅskṛta</em> words can have contextual meanings. Ask <a href="https://i.imgflip.com/1cf8by.jpg?a473880">anyone</a> who has tried to read the <em>dharmashāstra</em>-s. Following this naming scheme, here are the names for 10 gases:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Latin name</th>
+<th style="text-align:center"><em>Saṅskṛta nāma</em></th>
+<th style="text-align:center">Transliteration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Methane</td>
+<td style="text-align:center">प्रदाह</td>
+<td style="text-align:center"><em>pradāha</em></td>
+</tr>
+<tr>
+<td style="text-align:center">Ethane</td>
+<td style="text-align:center">द्वयदाह</td>
+<td style="text-align:center"><em>dvayadāha</em></td>
+</tr>
+<tr>
+<td style="text-align:center">Propane</td>
+<td style="text-align:center">त्रयदाह</td>
+<td style="text-align:center"><em>trayadāha</em></td>
+</tr>
+<tr>
+<td style="text-align:center">Butane</td>
+<td style="text-align:center">कृतदाह</td>
+<td style="text-align:center"><em>kṛtadāha</em></td>
+</tr>
+<tr>
+<td style="text-align:center">Pentane</td>
+<td style="text-align:center">पञ्चदाह​</td>
+<td style="text-align:center"><em>paṅcadāha</em></td>
+</tr>
+<tr>
+<td style="text-align:center">Hexane</td>
+<td style="text-align:center">षोडाह</td>
+<td style="text-align:center"><em>ṣoḍāha</em></td>
+</tr>
+<tr>
+<td style="text-align:center">Heptane</td>
+<td style="text-align:center">सप्तदाह</td>
+<td style="text-align:center"><em>saptadāha</em></td>
+</tr>
+<tr>
+<td style="text-align:center">Octane</td>
+<td style="text-align:center">अष्टदाह</td>
+<td style="text-align:center"><em>aṣṭadāha</em></td>
+</tr>
+<tr>
+<td style="text-align:center">Nonane</td>
+<td style="text-align:center">नवदाह</td>
+<td style="text-align:center"><em>navadāha</em></td>
+</tr>
+<tr>
+<td style="text-align:center">Decane</td>
+<td style="text-align:center">दशदाह</td>
+<td style="text-align:center"><em>dashadāha</em></td>
+</tr>
+</tbody>
+</table>
+<p>IUPAC nomenclature also uses the alkyl groups, so we would require their <em>saṅskṛta</em> names too. From a very reductionist prespective, an alkyl is a just one order lower than an alkane. <strong>This is not the actual case</strong>, but I have gone with this understanding for now. Considering this, I have used the prefix of &ldquo;उप&rdquo; (<em>upa</em>) meaning substitute/lower/secondary or something similar with the quantifies for the <em>dāha</em>-s. As with the alkanes, the alkyl names will be the following:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Latin name</th>
+<th style="text-align:center"><em>Saṅskṛta nāma</em></th>
+<th style="text-align:center">Transliteration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Methyl</td>
+<td style="text-align:center">उपप्र</td>
+<td style="text-align:center"><em>upapra</em></td>
+</tr>
+<tr>
+<td style="text-align:center">Ethyl</td>
+<td style="text-align:center">उपद्वय</td>
+<td style="text-align:center"><em>upadvaya</em></td>
+</tr>
+<tr>
+<td style="text-align:center">Propyl</td>
+<td style="text-align:center">उपत्रय</td>
+<td style="text-align:center"><em>upatraya</em></td>
+</tr>
+<tr>
+<td style="text-align:center">Butyl</td>
+<td style="text-align:center">उपकृत</td>
+<td style="text-align:center"><em>upakṛta</em></td>
+</tr>
+<tr>
+<td style="text-align:center">Pentyl</td>
+<td style="text-align:center">उपपञ्च​</td>
+<td style="text-align:center"><em>upapaṅca</em></td>
+</tr>
+<tr>
+<td style="text-align:center">Hexyl</td>
+<td style="text-align:center">उपषष्</td>
+<td style="text-align:center"><em>upaṣaṣ</em></td>
+</tr>
+<tr>
+<td style="text-align:center">Heptyl</td>
+<td style="text-align:center">उपसप्त</td>
+<td style="text-align:center"><em>upasapta</em></td>
+</tr>
+<tr>
+<td style="text-align:center">Octyl</td>
+<td style="text-align:center">उपाष्ट</td>
+<td style="text-align:center"><em>upāṣṭa</em></td>
+</tr>
+<tr>
+<td style="text-align:center">Nonyl</td>
+<td style="text-align:center">उपनव</td>
+<td style="text-align:center"><em>upanava</em></td>
+</tr>
+<tr>
+<td style="text-align:center">Decyl</td>
+<td style="text-align:center">उपदश</td>
+<td style="text-align:center"><em>upadasha</em></td>
+</tr>
+</tbody>
+</table>
+<p>As mentioned earlier, I have not attempted to come up with any new naming rules or tweaked the existing IUPAC rules, it simply does not seem worth it. I will hence be following the IUPAC nomenclature.</p>
+<p>I would have loved to illustrate the chain-diagrams for the hydrocarbon structures of these alkanes, but I simply cannot at the moment. I will however write them out (hope you remember some organic chemistry lmao):</p>
+<ul>
+<li>
+<p>2-methylepentane &ndash; २-उपप्रपञ्चदाह​</p>
+</li>
+<li>
+<p>2,3-dimethylbutane &ndash; २,३-द्विउपप्रकृतदाह</p>
+</li>
+<li>
+<p>2-ethyl 3,4,6-trimethyloctane &ndash; २-उपद्वय ३,४,६-त्रिउपप्राष्टदाह</p>
+</li>
+</ul>
+<p>Again, apologies if this is not immediately clear, but I promise if you draw out different strucutes and use the <em>saṅskṛta</em> names, it will work and feel natural.</p>
+<h2 id="_saṅskṛta_-writeup"><em>Saṅskṛta</em> writeup:</h2>
+<p>It only makes sense that we now try and see how this would work in full-<em>saṅskṛta</em> writing. So here is a small write-up that discusses the same concepts:</p>
+
+
+
+
+
+<pre tabindex="0"><code>पञ्च द्रव्येषु वायुः अस्ति 
+वायवे तन्मात्रौ शब्द स्पर्श च
+वायौ विभिन्न वर्गाः सन्ति
+एकं वर्गं दाहकवातम्  इति 
+दाहकवाताः अग्नि प्राप्त्वा दहन्ति 
+वयं आपाङ्गारस्य जन्म दाहकवातस्य चर्चा करिष्यामः 
+आपस्य अङ्गारस्य च संधि आपाङ्गार इति
+एकं अङ्गारस्य अणुः चतुः आपस्य अणवः च प्रदाह इति नाम दाहकवातम् जनयति
+प्रदाहम् आङ्ग्लभाषायाम् मेथेन इति उच्यते
+एतत् प्रथम दाहकवातम् अतः प्रदाह
+एक अङ्गार अणेः सन्धिबल चतुः अस्ति
+परन्तु किञ्चित् उपवाताः भवति ये तेषाम् आपाङ्गारेभ्यः एक आप अणुः न्यूनाः दधन्ति
+वयं एतानि उपवातेभ्यः उप इति उपसर्गम्  उपयोगं करिष्यामः च आपाङ्गाराणाम् शब्दानाम् प्रथम पदे संधि करिष्यामः
+अतः प्रस्तुत सूचि प्राप्नोसि प्रदाह उपप्र च द्वयडह उपद्वाय च इत्यादि</code></pre><p>For clarifications: वातः (<em>vātaḥ</em>) is used for &ldquo;gas&rdquo;, आपाङ्गारम् (<em>āpāṅgāram</em>) is used for hydrocarbon (as of this writing, I have not decided a name for carbon) and सन्धिबलम्/बलम् is used for <a href="https://www.etymonline.com/word/valence">valence</a>, because interestingly valence is derived from PIE root &ldquo;*wal-&rdquo;, meaning &ldquo;to be strong&rdquo;, which is just <em>saṅskṛta</em> बल् (<em>bal</em>), meaning the same (a scenario in which direct translation works perfectly). The opening <em>vākya</em>-s have been taken from <em>vaisheṣika darshana</em>. Now, the time for excuses.</p>
+<h2 id="clarifications">Clarifications</h2>
+<p>I am not a chemist, neither am I entirely proficient in <em>saṅskṛta</em>. There could be several errors in this blog, relating to my knowledge of chemistry. Also several typos and grammatical errors relating to <em>saṅskṛta</em>, so I do not encourage people to take the technical parts as facts and also that I view myself as a part of such <em>āryīkaraṇa</em> &ndash; I will more be than happy if someone creates a better system than mine, more intuitive words to use than what I have provided, while fixing my mistakes. This is not supposed to be a personal project, rather a long-term process that must be discussed at the highest levels of culture so that scholars from various fields can put forth their assertions. But I will consider my efforts fulfilled if someone is merely inspired by this, to vastly improve on it, and push forward more that anyone else currently. Or, maybe you can come with new names entirely, that do not follow any convention and each alkane, each alkyl have a distinct name altogether. Whatever ends up happening, I hope these efforts are sensible in some way, however small.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
       <title>Notes on fourth chapter from Lokamanya Tilak&#39;s Orion</title>
       <link>https://raunackt.github.io/blogs/009-notes-on-orion-4/</link>
       <pubDate>Wed, 27 Dec 2023 09:00:00 +0530</pubDate>
